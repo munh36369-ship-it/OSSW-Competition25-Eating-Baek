@@ -1,4 +1,4 @@
-# OSSW-Competition-TEMPLATE
+# OSSW-Competition25-Eating_Baek
 소중한 오픈 소스 활용SW 경진대회 
 # 국립한밭대학교 ㅁㅁㅁㅁ팀
 
