@@ -23,7 +23,5 @@
   - ### 기대 효과
 
 ## 개발환경
-  - ### DBMS :
+  - ### DBMS : X
   - ### 개발 언어 : Python, JavaScript 
-  - ### XXXXXX
-  - ### XXXXXX
